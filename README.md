@@ -1,5 +1,5 @@
 # Inicial
-Este es mi primer repositorio en GitHub
+<p>Este es mi primer repositorio en GitHub</p>
 
-##Encabezado de segundo nivel
-Con texto
+## Encabezado de segundo nivel
+<p>Con texto</p>
